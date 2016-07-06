@@ -17,13 +17,13 @@ message as above.
 
 **Status:**
 
-USER, PASS commands simply give "okay" replies for any input.
-SYST replies standard UNIX repsonse.
-CWD works.
-PASV is working.
-LIST is working.
-RETR working.
-STOR working.
+USER, PASS commands simply give "okay" replies for any input.  
+SYST replies standard UNIX repsonse.  
+CWD works.  
+PASV is working.  
+LIST is working.  
+RETR working.  
+STOR working.  
 
 **Testing:**
 
